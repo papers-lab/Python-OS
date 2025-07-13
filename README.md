@@ -1,6 +1,6 @@
 # Python-OS
 Operating System made in Python
-![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ---
 
