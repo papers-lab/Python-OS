@@ -4,6 +4,7 @@ Operating System made in Python
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ---
 
+
 ## Installation
 To install **pyOS** on your PC follow these steps:
 1. Make a new folder, name doesn't matter  
@@ -12,22 +13,23 @@ To install **pyOS** on your PC follow these steps:
 4. Run pyOSinstaller.py, usually the command is `python3 pyOSinstaller.py`  
 ---
 
+
 ## Usage
   Run `python3 Boot.py` in your terminal, if that doesnt work try one of these 
 ```
-python
+python Boot.py
 
-python3.x (e.g., python3.10)
+python3.x Boot.py (e.g., python3.10)
 
-py -3
+py -3 Boot.py
 
-/usr/bin/python3
+/usr/bin/python3 Boot.py
 
-C:\Python39\python.exe
+C:\Python39\python.exe Boot.py
 
-venv/bin/python
+venv/bin/python Boot.py
 
-venv\Scripts\python.exe
+venv\Scripts\python.exe Boot.py
 ```
 
 
