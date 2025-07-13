@@ -5,11 +5,11 @@ Operating System made in Python
 ---
 
 ## Installation
-To install **pyOS** on your PC follow these steps:
-    1. Make a new folder, name doesn't matter  
-    2. Drop pyOSinstaller.py and requirements.txt in the folder  
-    3. In a terminal, run `pip install -r requirements.txt`  
-    4. Run pyOSinstaller.py, usually the command is `python3 pyOSinstaller.py`  
+    To install **pyOS** on your PC follow these steps:
+        1. Make a new folder, name doesn't matter  
+        2. Drop pyOSinstaller.py and requirements.txt in the folder  
+        3. In a terminal, run `pip install -r requirements.txt`  
+        4. Run pyOSinstaller.py, usually the command is `python3 pyOSinstaller.py`  
 ---
 
 ## Usage
