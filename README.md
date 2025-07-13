@@ -32,8 +32,8 @@ venv/bin/python Boot.py
 venv\Scripts\python.exe Boot.py
 ```
 
-
-
+__*this project was made by unavalible_spec, @3lmaos on discord*__
+__*expect bugs and issues, use rm command with caution*__
     
 
   
