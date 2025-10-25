@@ -33,7 +33,7 @@ venv\Scripts\python.exe Boot.py
 ```
 run `help` for commands
 
-__*this project was made by unavalible_spec, @3lmaos on discord*__
+__*this project was made by unavalible_spec*__
 __*expect bugs and issues, use rm command with caution*__
     
 
